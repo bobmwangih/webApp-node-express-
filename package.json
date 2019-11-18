@@ -1,0 +1,17 @@
+{
+  "name": "webapp1.0",
+  "version": "1.0.0",
+  "description": "web app 4.0 pluralsight (node+express)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bob",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
